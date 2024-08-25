@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
