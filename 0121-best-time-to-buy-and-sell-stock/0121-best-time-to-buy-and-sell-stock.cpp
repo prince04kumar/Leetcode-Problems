@@ -1,8 +1,6 @@
 class Solution {
 public:
     int maxProfit(vector<int>& arr) {
-        #define fastio() ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
-
 
         int n = arr.size();
         int buyPrice = arr[0];
