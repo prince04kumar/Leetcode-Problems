@@ -1,37 +1,44 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> ans(2, -1);  // Initialize the result with [-1, -1]
-
-        // Find the first occurrence of the target
-        int start = 0, end = nums.size() - 1;
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
+        int n = nums.size();
+        int s = 0;
+        int e = n - 1;
+        int mid = s + (e - s) / 2;
+        vector<int> finalAns;
+        int firstInd = -1;
+        int secondInd = -1;
+        while (s <= e) {
             if (nums[mid] == target) {
-                ans[0] = mid;
-                end = mid - 1;  // Continue searching in the left half
-            } else if (nums[mid] > target) {
-                end = mid - 1;
+                firstInd = mid;
+                s = mid + 1;
+            } else if (nums[mid] < target) {
+                s = mid + 1;
             } else {
-                start = mid + 1;
+                e = mid - 1;
             }
+            mid = s + (e - s) / 2;
         }
 
-        // Find the last occurrence of the target
-        start = 0;
-        end = nums.size() - 1;
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            if (nums[mid] == target) {
-                ans[1] = mid;
-                start = mid + 1;  // Continue searching in the right half
-            } else if (nums[mid] > target) {
-                end = mid - 1;
-            } else {
-                start = mid + 1;
-            }
-        }
+        s = 0;
+        e = n - 1;
+        mid = s + (e - s) / 2;
 
-        return ans;
+        while (s <= e) {
+            if (nums[mid] == target) {
+                secondInd = mid;
+                e = mid - 1;
+            } else if (nums[mid] < target) {
+                s = mid + 1;
+            } else {
+                e = mid - 1;
+            }
+            mid = s + (e - s) / 2;
+        }
+        finalAns.push_back(secondInd);
+        finalAns.push_back(firstInd);
+         return finalAns;
     }
+
+   
 };
