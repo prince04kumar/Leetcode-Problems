@@ -1,5 +1,6 @@
 class Solution {
 public:
+#define fastio() ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
     int findMin(vector<int>& nums) {
         int n = nums.size();
         int s= 0;
