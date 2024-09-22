@@ -1,6 +1,8 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
+        #define fastio() ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
+
         int n = nums.size();
         if (n == 1)
             return nums[0];
