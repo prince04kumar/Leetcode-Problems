@@ -1,31 +1,33 @@
 class Solution {
 public:
-    int singleNonDuplicate(vector<int>& nums) {
-        #define fastio() ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
-
-        int n = nums.size();
-        if (n == 1)
-            return nums[0];
-        if (nums[0] != nums[1])
-            return nums[0];
-        if (nums[n - 1] != nums[n - 2])
-            return nums[n - 1];
-
+    int singleNonDuplicate(vector<int>& arr) {
+        int n = arr.size();
         int s = 0;
         int e = n - 1;
-        int mid = s + (e - s) / 2;
-        while (s <= e) {
-            if (mid - 1 > 0 && mid + 1 < n && nums[mid] - nums[mid - 1] > 0 &&
-                nums[mid + 1] - nums[mid] > 0)
-                return nums[mid];
-            if (mid - 1 > 0 && mid + 1 < n &&(mid % 2 == 0 && nums[mid] == nums[mid + 1]) ||
-                mid % 2 == 1 && nums[mid] == nums[mid - 1]) {
-                s = mid + 1;
-            } else {
-                e = mid - 1;
-            }
-            mid = s + (e - s) / 2;
+        int m = s + (e - s) / 2;
+        if(s==e)return arr[s];
+        if (arr[0] != arr[1]) {
+            return arr[0];
         }
-        return 0;
+        if (arr[n - 1] != arr[n - 2]) {
+            return arr[n - 1];
+        }
+        while (s <= e) {
+            if (m + 1 < n && m - 1 >= 0 && arr[m] != arr[m + 1] &&
+                arr[m] != arr[m - 1]) {
+                return arr[m];
+            }
+            if (m - 1 >= 0 && arr[m] == arr[m - 1] && (m - 1) % 2 == 0) {
+                s = m + 1;
+            } else if (m - 1 >= 0 && arr[m] == arr[m - 1] && (m - 1) % 2 == 1) {
+                e = m - 1;
+            } else if (m + 1 < n && arr[m] == arr[m + 1] && m % 2 == 0) {
+                s = m + 1;
+            } else if (m + 1 < n && arr[m] == arr[m + 1] && m % 2 == 1) {
+                e = m - 1;
+            }
+            m = s + (e - s) / 2;
+        }
+        return -1;
     }
 };
