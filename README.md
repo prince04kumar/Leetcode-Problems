@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
