@@ -1,28 +1,36 @@
 class Solution {
 public:
-    int findPairs(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
-        int n = nums.size();
-        set<pair<int,int>>ans;
-        int i = 0 ;
-        int j = i+1;
-        while(j<n){
-            
-            int diff = nums[j] - nums[i];
-            if(diff == k){
-                ans.insert({nums[i],nums[j]});
-                i++;
-                j++;
+    int binarySearch(vector<int>&v ,int start , int x){
+        int s= start;
+        int e = v.size()-1;
+        int m = s + (e-s)/2;
+        while(s<=e){
+            if(x==v[m]){
+                return m;
             }
-            else if(diff<k){
-                j++;
+            else if (x>v[m]){
+                s = m +1;
             }
             else{
-                i++;
+                e = m-1;
             }
-            if(i==j)j++;
+            m = s + (e-s)/2;
+        }
+        return -1;
+    }
+    int findPairs(vector<int>& nums, int k) {
+
+        sort(nums.begin(),nums.end());
+        set<pair<int,int>>s;
+        int n=nums.size();
+        for(int i =0 ; i< n; i++){
+           
+            if(binarySearch(nums , i+1 , nums[i]+k) != -1){
+                s.insert({nums[i] , nums[i]+k});
+            }
+
 
         }
-        return ans.size();
+        return s.size();
     }
 };
