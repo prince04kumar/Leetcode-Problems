@@ -1,4 +1,9 @@
 class Solution {
+    typedef long long ll;
+typedef pair<int, int> pi;
+typedef vector<int> vi;
+typedef map<int,int> mii;
+
 public:
     int binarySearch(vector<int>&v ,int start , int x){
         int s= start;
