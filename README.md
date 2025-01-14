@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -135,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
