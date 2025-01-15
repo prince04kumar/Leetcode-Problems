@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
