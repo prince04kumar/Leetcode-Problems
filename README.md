@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1086-divisor-game](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1086-divisor-game) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
