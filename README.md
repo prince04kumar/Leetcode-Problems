@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1086-divisor-game](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1086-divisor-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
