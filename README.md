@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1086-divisor-game](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1086-divisor-game) |
+| [2610-closest-prime-numbers-in-range](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## String
 |  |
 | ------- |
@@ -165,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
