@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0926-find-and-replace-pattern) |
+| [1078-remove-outermost-parentheses](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
