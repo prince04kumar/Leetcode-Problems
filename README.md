@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
