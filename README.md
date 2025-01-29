@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0926-find-and-replace-pattern) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 ## Divide and Conquer
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 ## Prefix Sum
 |  |
@@ -198,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
