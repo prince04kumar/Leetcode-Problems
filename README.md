@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0807-custom-sort-string) |
+| [0874-backspace-string-compare](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 ## Sliding Window
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Enumeration
 |  |
