@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1086-divisor-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2610-closest-prime-numbers-in-range](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Array
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Matrix
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Dynamic Programming
 |  |
 | ------- |
