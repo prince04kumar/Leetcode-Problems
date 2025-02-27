@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0926-find-and-replace-pattern) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2406-decode-the-message](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2406-decode-the-message) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2406-decode-the-message) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
 | ------- |
