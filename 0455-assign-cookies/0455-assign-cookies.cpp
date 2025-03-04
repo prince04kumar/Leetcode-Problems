@@ -1,4 +1,6 @@
 class Solution {
+    #define fastio() ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
+
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
         sort(s.begin(), s.end());
