@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1894-merge-strings-alternately](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
+| [1894-merge-strings-alternately](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
