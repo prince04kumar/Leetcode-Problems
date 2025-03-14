@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3639-zero-array-transformation-i](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3639-zero-array-transformation-i](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 ## Stack
 |  |
 | ------- |
