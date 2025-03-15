@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Bit Manipulation
 |  |
 | ------- |
