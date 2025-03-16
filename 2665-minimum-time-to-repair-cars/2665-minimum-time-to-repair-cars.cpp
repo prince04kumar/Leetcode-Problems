@@ -1,6 +1,9 @@
 class Solution {
 public:
-    bool check(vector<int>& ranks, int cars, long long time) {
+//Speed
+#define fastio() ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
+
+    bool check(vector<int>& ranks,long long int cars, long long time) {
         long long carsDone = 0;
 
         for (int i = 0; i < ranks.size(); i++) {
@@ -13,7 +16,7 @@ public:
     }
 
     long long repairCars(vector<int>& ranks, int cars) {
-        long long mini = *max_element(ranks.begin(), ranks.end());  
+        long long mini = *min_element(ranks.begin(), ranks.end());  
         long long s = 1, e = mini *  cars * cars;  
         long long time = e;  
         while (s <= e) {
