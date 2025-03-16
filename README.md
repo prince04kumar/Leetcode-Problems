@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2665-minimum-time-to-repair-cars](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3639-zero-array-transformation-i](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2665-minimum-time-to-repair-cars](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 ## Bit Manipulation
 |  |
 | ------- |
