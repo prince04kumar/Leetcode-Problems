@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2478-longest-nice-subarray](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3639-zero-array-transformation-i](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [2478-longest-nice-subarray](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [2478-longest-nice-subarray](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
