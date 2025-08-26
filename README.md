@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2478-longest-nice-subarray](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3639-zero-array-transformation-i](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
 |  |
