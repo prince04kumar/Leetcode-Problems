@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2406-decode-the-message](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2406-decode-the-message) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/prince04kumar/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
