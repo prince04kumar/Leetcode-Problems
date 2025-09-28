@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2610-closest-prime-numbers-in-range](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0926-find-and-replace-pattern) |
+| [1018-largest-perimeter-triangle](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0807-custom-sort-string) |
+| [1018-largest-perimeter-triangle](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
