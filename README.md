@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1086-divisor-game) |
+| [1642-water-bottles](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2610-closest-prime-numbers-in-range](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## String
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Enumeration
