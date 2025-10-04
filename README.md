@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0407-trapping-rain-water-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/prince04kumar/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Dynamic Programming
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0778-reorganize-string) |
 ## Brainteaser
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
