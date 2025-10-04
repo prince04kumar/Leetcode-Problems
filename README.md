@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/prince04kumar/Leetcode-Problems/tree/master/1086-divisor-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0686-repeated-string-match) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/prince04kumar/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
