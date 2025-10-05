@@ -32,10 +32,13 @@ public:
 
                     if (!destroyed) st.push(asteroids[i]);
                 }
-                else if (st.top() <= 0 && asteroids[i] < 0) {
-                    st.push(asteroids[i]);
-                }
-                else if (st.top() < 0 && asteroids[i] > 0) {
+                // else if (st.top() <= 0 && asteroids[i] < 0) {
+                //     st.push(asteroids[i]);
+                // }
+                // else if (st.top() < 0 && asteroids[i] > 0) {
+                //     st.push(asteroids[i]);
+                // }
+                else{
                     st.push(asteroids[i]);
                 }
             }
